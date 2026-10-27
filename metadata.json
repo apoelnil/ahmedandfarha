@@ -1,0 +1,6 @@
+{
+  "name": "Ahmed & Farha — Engagement Invitation",
+  "description": "An elegant, luxury digital engagement invitation website for Ahmed & Farha featuring live countdown, event details, venue directions, and calendar sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

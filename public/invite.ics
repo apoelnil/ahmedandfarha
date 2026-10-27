@@ -1,0 +1,22 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Ahmed and Farha//Engagement Invitation//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:ahmed-farha-engagement-20261113@invitation
+DTSTAMP:20261018T000000Z
+DTSTART:20261113T160000Z
+DTEND:20261113T220000Z
+SUMMARY:Ahmed & Farha — Our Engagement
+DESCRIPTION:Join us to celebrate the engagement of Ahmed & Farha at 263 st villa 4 new maadi.\nLocation: https://maps.app.goo.gl/CaNug9JzoVSNQxUa8\n\nWaiting for you to celebrate with us.
+LOCATION:263 st villa 4 new maadi
+STATUS:CONFIRMED
+SEQUENCE:0
+BEGIN:VALARM
+TRIGGER:-P1D
+ACTION:DISPLAY
+DESCRIPTION:Reminder: Ahmed & Farha Engagement Tomorrow!
+END:VALARM
+END:VEVENT
+END:VCALENDAR
