@@ -4,13 +4,13 @@ PRODID:-//Ahmed and Farha//Engagement Invitation//EN
 CALSCALE:GREGORIAN
 METHOD:PUBLISH
 BEGIN:VEVENT
-UID:ahmed-farha-engagement-20261113@invitation
-DTSTAMP:20261018T000000Z
-DTSTART:20261113T160000Z
-DTEND:20261113T220000Z
+UID:ahmed-farha-engagement-20261116@invitation
+DTSTAMP:20261104T000000Z
+DTSTART:20261116T160000Z
+DTEND:20261116T220000Z
 SUMMARY:Ahmed & Farha — Our Engagement
-DESCRIPTION:Join us to celebrate the engagement of Ahmed & Farha at 263 st villa 4 new maadi.\nLocation: https://maps.app.goo.gl/CaNug9JzoVSNQxUa8\n\nWaiting for you to celebrate with us.
-LOCATION:263 st villa 4 new maadi
+DESCRIPTION:Join us to celebrate the engagement of Ahmed & Farha at Golden Gate Villa, New Cairo.\nLocation: https://maps.app.goo.gl/cqbGd2ZReXWXKsYy6\n\nWaiting for you to celebrate with us.
+LOCATION:Golden Gate Villa, New Cairo
 STATUS:CONFIRMED
 SEQUENCE:0
 BEGIN:VALARM

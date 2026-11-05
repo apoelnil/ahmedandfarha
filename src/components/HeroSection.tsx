@@ -38,7 +38,7 @@ const FlourishArrowRight: React.FC = () => (
 );
 
 export const HeroSection: React.FC<HeroSectionProps> = ({ onScrollToNext }) => {
-  const countdown = useCountdown('2026-11-13T18:00:00');
+  const countdown = useCountdown('2026-11-16T18:00:00');
   const { ref, isInView } = useSectionInView(0.2);
 
   const transitionEase = [0.22, 1, 0.36, 1] as const;
@@ -146,7 +146,7 @@ export const HeroSection: React.FC<HeroSectionProps> = ({ onScrollToNext }) => {
           transition={{ duration: 0.8, delay: 1.2, ease: transitionEase }}
           className="text-[11px] sm:text-xs tracking-[0.25em] font-light text-[#E0D8CB]/70 uppercase"
         >
-          FRIDAY · 13 NOVEMBER 2026
+          MONDAY · 16 NOVEMBER 2026
         </motion.p>
 
         {/* Countdown Timer: positioned directly under the date, 20% smaller */}

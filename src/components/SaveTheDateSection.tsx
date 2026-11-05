@@ -51,7 +51,7 @@ export const SaveTheDateSection: React.FC = () => {
           transition={{ duration: 0.8, delay: 0.4, ease: transitionEase }}
           className="text-[11px] sm:text-xs tracking-[0.25em] font-light text-[#E0D8CB]/75 uppercase mb-8 sm:mb-10"
         >
-          FRIDAY · 06:00 PM
+          MONDAY · 06:00 PM
         </motion.p>
 
         {/* Minimal Direct Calendar Sync Buttons */}

@@ -4,16 +4,16 @@
 
 export const EVENT_DETAILS = {
   title: 'Ahmed & Farha — Our Engagement',
-  description: 'Join us to celebrate the engagement of Ahmed & Farha at 263 st villa 4 new maadi.\nLocation: https://maps.app.goo.gl/CaNug9JzoVSNQxUa8\n\nWaiting for you to celebrate with us.',
-  location: '263 st villa 4 new maadi',
-  locationUrl: 'https://maps.app.goo.gl/CaNug9JzoVSNQxUa8',
-  startDateUtc: '20261113T160000Z',
-  endDateUtc: '20261113T220000Z',
-  dateFormatted: 'Friday, 13 November 2026',
-  dateShort: '13 · 11 · 2026',
+  description: 'Join us to celebrate the engagement of Ahmed & Farha at Golden Gate Villa, New Cairo.\nLocation: https://maps.app.goo.gl/cqbGd2ZReXWXKsYy6\n\nWaiting for you to celebrate with us.',
+  location: 'Golden Gate Villa, New Cairo',
+  locationUrl: 'https://maps.app.goo.gl/cqbGd2ZReXWXKsYy6',
+  startDateUtc: '20261116T160000Z',
+  endDateUtc: '20261116T220000Z',
+  dateFormatted: 'Monday, 16 November 2026',
+  dateShort: '16 · 11 · 2026',
   timeFormatted: '06:00 PM',
-  venue: 'The Garden Venue',
-  address: '263 st villa 4 new maadi',
+  venue: 'Golden Gate Villa',
+  address: 'New Cairo',
   celebrationMessage: 'WAITING FOR YOU TO CELEBRATE WITH US',
 };
 
